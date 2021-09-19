@@ -1,17 +1,17 @@
+<!-- this is our main app -->
+
+
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <h1>Hello World</h1>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    // when you want to use a component you ahve to declare it here in the components object, then you can pass it into the template above, which takes a message prop
+  },
+};
 </script>
 
 <style>
