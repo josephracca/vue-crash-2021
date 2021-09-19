@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "October 1st at 5:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Hair Appointment",
+      "day": "October 4th at 5:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Gym Time",
+      "day": "November 1st at 5:30pm",
+      "reminder": false
+    },
+    {
+      "text": "First Day at A Gift Inside",
+      "day": "Tuesday, September 21st @ 8:00am",
+      "reminder": false,
+      "id": "ArHcaot"
+    }
+  ]
+}
