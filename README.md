@@ -1,4 +1,5 @@
 # vue-crash-2021
+based on the youtube tutorial by Traversey Media
 
 ## Project setup
 ```
